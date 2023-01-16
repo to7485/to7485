@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **to7485/to7485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
