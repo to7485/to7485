@@ -20,10 +20,14 @@ Here are some ideas to get you started:
 
 ### 코리아IT아카데미 DBMS 단과반(19:00)
 - [강의자료](https://github.com/to7485/DBMS1900)
+
+### 코리아IT아카데미 PYTHON(19:00)
+- [강의자료](https://github.com/to7485/PYTHON1900)
+
 ### 코리아IT아카데미 C언어 단과반(19:00)
 
 ### 코리아IT아카데미 JAVA/주말(14:00)
 
-### 코리아IT아카데미 PYTHON/주말(14:00)
+
 
 ### 코리아IT아카데미 C언어/주말(14:00)
