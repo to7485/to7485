@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 웹개발
-<image src="image/java_icon.jpeg" width="5%" height="5%"><image src="image/html_icon.ico" width="5%" height="5%">
+<image src="image/java_icon.jpeg" width="5%" height="5%"> <image src="image/html_icon.ico" width="5%" height="5%"> <image src="image/css_icon.png" width="5%" height="5%"><image src="image/js_icon.png" width="5%" height="5%"><image src="image/oracle_icon.jpeg" width="5%" height="5%"><image src="image/jsp_icon.png" width="5%" height="5%"><image src="image/spring_icon.png" width="5%" height="5%"><image src="image/thymeleaf_icon.png" width="5%" height="5%"><image src="image/springboot_icon.png" width="5%" height="5%">
 - [강의자료](https://github.com/to7485/Web1500)
 
 ### JAVA
