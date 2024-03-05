@@ -12,21 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 코리아IT아카데미 웹&앱개발
+### 웹개발
 - [강의자료](https://github.com/to7485/Web1500)
 
-### 코리아IT아카데미 JAVA 단과반
+### JAVA
 - [강의자료](https://github.com/to7485/Java1900)
 
-### 코리아IT아카데미 DBMS 단과반
+### DBMS
 - [강의자료](https://github.com/to7485/DBMS1900)
 
-### 코리아IT아카데미 PYTHON
+### PYTHON
 - [강의자료](https://github.com/to7485/PYTHON1900)
 
-### 코리아IT아카데미 C언어 단과반
+### C언어
 - [강의자료](https://github.com/to7485/Clang)
 
-### 코리아IT아카데미 C++
+### C++
 - [강의자료](https://github.com/to7485/CppLang)
 
