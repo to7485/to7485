@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 웹개발
-<image src="image/html_icon.ico width="50%" height="50%">
+<image src="image/html_icon.ico" width="50%" height="50%">
 - [강의자료](https://github.com/to7485/Web1500)
 
 ### JAVA
