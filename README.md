@@ -12,26 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 웹개발 <image src="image/java_icon.jpeg" width="5%" height="5%">  <image src="image/html_icon.ico" width="5%" height="5%">  <image src="image/css_icon.png" width="4%" height="4%"> <image src="image/js_icon.png" width="5%" height="5%"> <image src="image/oracle_icon.png" width="5%" height="5%"> <image src="image/jsp_icon.png" width="5%" height="5%"> <image src="image/spring_icon.png" width="5%" height="5%"> <image src="image/thymeleaf_icon.png" width="5%" height="5%"> <image src="image/springboot_icon.png" width="5%" height="5%">
-- [자료](https://github.com/to7485/Web1500)
+# [웹개발](https://github.com/to7485/Web1500) <image src="image/java_icon.jpeg" width="5%" height="5%">  <image src="image/html_icon.ico" width="5%" height="5%">  <image src="image/css_icon.png" width="4%" height="4%"> <image src="image/js_icon.png" width="5%" height="5%"> <image src="image/oracle_icon.png" width="5%" height="5%"> <image src="image/jsp_icon.png" width="5%" height="5%"> <image src="image/spring_icon.png" width="5%" height="5%"> <image src="image/thymeleaf_icon.png" width="5%" height="5%"> <image src="image/springboot_icon.png" width="5%" height="5%">
 
-# JAVA &nbsp;<image src="image/java_icon.jpeg" width="8%" height="8%">
-  
-- [자료](https://github.com/to7485/Java1900)
 
-# DBMS &nbsp;<image src="image/oracle_icon.png" width="5%" height="5%">
-  
-- [자료](https://github.com/to7485/DBMS1900)
+# [JAVA](https://github.com/to7485/Java1900) &nbsp;<image src="image/java_icon.jpeg" width="8%" height="8%">
 
-# PYTHON &nbsp;<image src="image/python_icon.png" width="5%" height="5%">
+# [DBMS](https://github.com/to7485/DBMS1900) &nbsp;<image src="image/oracle_icon.png" width="5%" height="5%">
 
-- [자료](https://github.com/to7485/PYTHON1900)
 
-# C언어 &nbsp;<image src="image/c_icon.webp" width="5%" height="5%">
+# [PYTHON](https://github.com/to7485/PYTHON1900) &nbsp;<image src="image/python_icon.png" width="5%" height="5%">
 
-- [자료](https://github.com/to7485/Clang)
+# [C언어](https://github.com/to7485/Clang) &nbsp;<image src="image/c_icon.webp" width="5%" height="5%">
 
-# C++ &nbsp;<image src="image/c++_icon.png" width="5%" height="5%">
-  
-- [자료](https://github.com/to7485/CppLang)
+# [C++](https://github.com/to7485/CppLang) &nbsp;<image src="image/c++_icon.png" width="5%" height="5%">
+
 
