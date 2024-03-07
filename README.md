@@ -27,11 +27,17 @@ Here are some ideas to get you started:
 - [강의자료](https://github.com/to7485/DBMS1900)
 
 ### PYTHON
+<image src="image/python_icon.png" width="5%" height="5%">
+
 - [강의자료](https://github.com/to7485/PYTHON1900)
 
 ### C언어
+<image src="image/c_icon.webp" width="5%" height="5%">
+
 - [강의자료](https://github.com/to7485/Clang)
 
 ### C++
+<image src="image/c++_icon.png" width="5%" height="5%">
+  
 - [강의자료](https://github.com/to7485/CppLang)
 
