@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### JAVA
 <image src="image/java_icon.jpeg" width="5%" height="5%">
   
--[강의자료](https://github.com/to7485/Java1900)
+- [강의자료](https://github.com/to7485/Java1900)
 
 ### DBMS
 <image src="image/oracle_icon.jpeg" width="5%" height="5%">
